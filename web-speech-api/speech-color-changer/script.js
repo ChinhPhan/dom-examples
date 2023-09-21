@@ -14,7 +14,7 @@ if (SpeechGrammarList) {
   recognition.grammars = speechRecognitionList;
 }
 recognition.continuous = false;
-recognition.lang = 'en-US';
+recognition.lang = 'vi-VN';
 recognition.interimResults = false;
 recognition.maxAlternatives = 1;
 
